@@ -1,45 +1,54 @@
-# 🐍 Python Mini Projects
-
-Collection of small Python projects created for practice, problem solving, and learning core programming concepts.  
-These projects cover basic logic building, games, utilities, and GUI programs.
-
----
-
 ## 📂 Project Structure
-Python-Mini-Projects
+
+```
+Python-Mini-Projects/
 │
-├── Basics
+├── Basics/
 │   ├── Blackjack.py
 │   ├── Encrypt_Decrypt.py
 │   ├── Hangman.py
 │   ├── Password_Generator.py
 │   ├── Rock_Paper_Scissor.py
 │
-├── GUI_Based_Projects
-│   ├── Turtle_Race.py
+├── GUI_Based_Projects/
+│   └── Turtle_Race.py
+```
+
 ---
 
-## 🧠 Topics Covered
+## 🐍 Python Mini Projects
 
+Collection of small Python projects created for practice, problem solving, and learning core programming concepts.
+
+### Topics Covered
 - Python basics
-- Functions & loops
+- Loops & functions
 - Random module
-- String manipulation
 - Game logic
-- File handling
-- GUI using Turtle / Tkinter
-- Simple encryption logic
+- String manipulation
+- GUI (Turtle)
+- Simple encryption
+- Utility scripts
 
----
-
-## 🎮 Projects Included
+### Projects Included
 
 | Project | Description |
 |--------|------------|
 | Blackjack | Card game simulation |
 | Hangman | Word guessing game |
-| Rock Paper Scissor | Simple game using random choices |
-| Password Generator | Generates strong random passwords |
-| Encrypt / Decrypt | Basic text encryption program |
-| Turtle Race | GUI based race using turtle graphics |
+| Rock Paper Scissor | Simple random game |
+| Password Generator | Generates strong passwords |
+| Encrypt / Decrypt | Basic text encryption |
+| Turtle Race | GUI race using turtle |
 
+### Run
+
+```
+python filename.py
+```
+
+Example
+
+```
+python Hangman.py
+```
