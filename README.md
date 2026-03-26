@@ -1,6 +1,5 @@
-## 📂 Project Structure
+📂 Project Structure
 
-```
 Python-Mini-Projects/
 │
 ├── Basics/
@@ -10,45 +9,42 @@ Python-Mini-Projects/
 │   ├── Password_Generator.py
 │   ├── Rock_Paper_Scissor.py
 │
-├── GUI_Based_Projects/
+├── Gui_Based/
 │   └── Turtle_Race.py
-```
+│
+├── Guess_The_State/
+│   ├── Main.py
+│   ├── 50_states.csv
+│   ├── blank_states_img.gif
 
----
 
-## 🐍 Python Mini Projects
+🐍 Python Mini Projects
 
 Collection of small Python projects created for practice, problem solving, and learning core programming concepts.
 
-### Topics Covered
+
+Topics Covered
+
 - Python basics
 - Loops & functions
 - Random module
 - Game logic
 - String manipulation
-- GUI (Turtle)
+- File handling (CSV)
+- Pandas basics
+- GUI using Turtle
 - Simple encryption
-- Utility scripts
+- Mini games
 
-### Projects Included
 
-| Project | Description |
-|--------|------------|
-| Blackjack | Card game simulation |
-| Hangman | Word guessing game |
-| Rock Paper Scissor | Simple random game |
-| Password Generator | Generates strong passwords |
-| Encrypt / Decrypt | Basic text encryption |
-| Turtle Race | GUI race using turtle |
+Projects Included
 
-### Run
-
-```
-python filename.py
-```
-
-Example
-
-```
-python Hangman.py
-```
+Project | Description
+--------|------------
+Blackjack | Card game simulation
+Hangman | Word guessing game
+Rock Paper Scissor | Simple random game
+Password Generator | Generates strong passwords
+Encrypt / Decrypt | Basic text encryption
+Turtle Race | GUI race using turtle
+Guess The State | US states guessing game using turtle + pandas
