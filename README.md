@@ -1,5 +1,6 @@
 📂 Project Structure
 
+```
 Python-Mini-Projects/
 │
 ├── Basics/
@@ -16,8 +17,7 @@ Python-Mini-Projects/
 │   ├── Main.py
 │   ├── 50_states.csv
 │   ├── blank_states_img.gif
-
-
+```
 🐍 Python Mini Projects
 
 Collection of small Python projects created for practice, problem solving, and learning core programming concepts.
