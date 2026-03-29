@@ -1,43 +1,56 @@
-📂 Project Structure
+#  Python Mini Projects
 
-```
-Python-Mini-Projects/
+A collection of small Python projects built while learning programming, problem solving, and GUI development.
+
+---
+
+## 📂 Project Structure
+
+Python_Course/
 │
-├── Basics/
-│   ├── Blackjack.py
-│   ├── Encrypt_Decrypt.py
-│   ├── Hangman.py
-│   ├── Password_Generator.py
-│   ├── Rock_Paper_Scissor.py
+├── Practice/
 │
-├── Gui_Based/
-│   └── Turtle_Race.py
-│
-├── Guess_The_State/
-│   ├── Main.py
-│   ├── 50_states.csv
-│   ├── blank_states_img.gif
-```
-🐍 Python Mini Projects
+├── projects/
+│   ├── Basics/
+│   │   ├── Blackjack.py
+│   │   ├── Encrypt_Decrypt.py
+│   │   ├── Hangman.py
+│   │   ├── Password_Generator.py
+│   │   ├── Rock_Paper_Scissor.py
+│   │
+│   ├── Guess_The_State/
+│   │   ├── Main.py
+│   │   ├── 50_states.csv
+│   │   ├── blank_states_img.gif
+│   │
+│   ├── Gui_Based/
+│   │   └── Turtle_Race.py
+│   │
+│   ├── Tkinter/
+│   │   └── Pomodoro/
+│   │       ├── Main.py
+│   │       └── tomato.png
+│   │
+│   └── Miles_Km_Converter.py
 
-Collection of small Python projects created for practice, problem solving, and learning core programming concepts.
+---
 
+## 🚀 Topics Covered
 
-Topics Covered
+- Python Basics  
+- Loops & Functions  
+- Random Module  
+- Game Logic  
+- String Manipulation  
+- File Handling (CSV)  
+- Pandas Basics  
+- GUI using Turtle  
+- GUI using Tkinter  
+- Mini Games & Utilities  
 
-- Python basics
-- Loops & functions
-- Random module
-- Game logic
-- String manipulation
-- File handling (CSV)
-- Pandas basics
-- GUI using Turtle
-- Simple encryption
-- Mini games
+---
 
-
-Projects Included
+## 📌 Projects Included
 
 Project | Description
 --------|------------
@@ -48,3 +61,26 @@ Password Generator | Generates strong passwords
 Encrypt / Decrypt | Basic text encryption
 Turtle Race | GUI race using turtle
 Guess The State | US states guessing game using turtle + pandas
+Pomodoro Timer | Productivity timer using Tkinter GUI
+Miles-KM Converter | Unit converter using Tkinter
+
+---
+
+## 🎯 Purpose
+
+- Practice Python concepts  
+- Build logic & problem-solving skills  
+- Learn GUI development  
+- Create small usable apps  
+
+---
+
+## 🔮 Future Improvements
+
+- Add more GUI projects  
+- Improve UI design  
+- Add documentation for each project  
+
+---
+
+✨ More projects coming soon...
