@@ -2,8 +2,8 @@ from tkinter import *
 
 # ===================== Variables =====================
 no_of_checkmarks = 0
-work_time = 0.2
-short_break_time = 0.3
+work_time = 30
+short_break_time = 5
 long_break_time = 10
 timer = None
 
