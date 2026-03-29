@@ -29,7 +29,7 @@ title.pack(pady=10)
 entry = tk.Entry(root, font=("Arial", 12), justify="center")
 entry.pack(pady=10)
 
-# Mode (radio buttons)
+# Mode
 mode = tk.IntVar(value=1)
 
 frame = tk.Frame(root, bg="#1e1e1e")
