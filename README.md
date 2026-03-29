@@ -33,8 +33,6 @@ Python_Course/
 │   │
 │   └── Miles_Km_Converter.py
 
----
-
 ## 🚀 Topics Covered
 
 - Python Basics  
