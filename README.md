@@ -6,6 +6,7 @@ A collection of small Python projects built while learning programming, problem 
 
 ## 📂 Project Structure
 
+
 Python_Course/
 │
 ├── Practice/
@@ -32,6 +33,8 @@ Python_Course/
 │   │       └── tomato.png
 │   │
 │   └── Miles_Km_Converter.py
+
+---
 
 ## 🚀 Topics Covered
 
