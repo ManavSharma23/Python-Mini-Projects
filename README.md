@@ -6,26 +6,21 @@ A collection of small Python projects built while learning programming, problem 
 
 ## 📂 Project Structure
 Python_Course/
-│
-├── Practice/                  # Exercises and snippets
-│
+├── Practice/
 └── projects/
-    ├── Basics/                # Logic and Terminal-based games
+    ├── Basics/
     │   ├── Blackjack.py
     │   ├── Encrypt_Decrypt.py
     │   ├── Hangman.py
     │   ├── Password_Generator.py
     │   └── Rock_Paper_Scissor.py
-    │
-    ├── Guess_The_State/       # Pandas and Turtle data projects
+    ├── Guess_The_State/
     │   ├── Main.py
     │   ├── 50_states.csv
     │   └── blank_states_img.gif
-    │
-    ├── Gui_Based/             # General GUI (Turtle/Graphics)
+    ├── Gui_Based/
     │   └── Turtle_Race.py
-    │
-    ├── Tkinter/               # Dedicated Tkinter UI projects
+    ├── Tkinter/
     │   ├── Password_Manager/
     │   │   ├── Main.py
     │   │   ├── Data.json
@@ -33,8 +28,7 @@ Python_Course/
     │   └── Pomodoro/
     │       ├── Main.py
     │       └── tomato.png
-    │
-    └── Miles_Km_Converter.py  # Standalone utility
+    └── Miles_Km_Converter.py
 
 
 ## 🚀 Topics Covered
