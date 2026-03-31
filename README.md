@@ -37,7 +37,6 @@ Python_Course/
 │   │       └── tomato.png
 │   │
 │   └── Miles_Km_Converter.py
-
 ---
 
 ## 🚀 Topics Covered
