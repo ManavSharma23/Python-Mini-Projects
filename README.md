@@ -9,27 +9,14 @@ A collection of small Python projects built while learning programming, problem 
 Python_Course/
 ├── Practice/
 └── projects/
+    ├── Automated-Birthday-Email/
     ├── Basics/
-    │   ├── Blackjack.py
-    │   ├── Encrypt_Decrypt.py
-    │   ├── Hangman.py
-    │   ├── Password_Generator.py
-    │   └── Rock_Paper_Scissor.py
     ├── Guess_The_State/
-    │   ├── Main.py
-    │   ├── 50_states.csv
-    │   └── blank_states_img.gif
     ├── Gui_Based/
-    │   └── Turtle_Race.py
     ├── Tkinter/
-    │   ├── Password_Manager/
-    │   │   ├── Main.py
-    │   │   ├── Data.json
-    │   │   └── logo.png
-    │   └── Pomodoro/
-    │       ├── Main.py
-    │       └── tomato.png
-    └── Miles_Km_Converter.py
+    └── Trivia-Api/
+├── .gitignore
+└── README.md
     
 
 
