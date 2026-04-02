@@ -19,36 +19,37 @@ Python_Course/
 └── README.md
 ```
     
-
-
 ## 🚀 Topics Covered
-
-- Python Basics  
-- Loops & Functions  
-- Random Module  
-- Game Logic  
-- String Manipulation  
-- File Handling (CSV, JSON)  
-- Pandas Basics  
-- GUI using Turtle  
-- GUI using Tkinter  
-- Mini Games & Utilities  
+- Python Basics
+- Loops & Functions
+- Random Module
+- Game Logic
+- String Manipulation
+- File Handling (CSV, JSON)
+- Pandas Basics
+- GUI using Turtle
+- GUI using Tkinter
+- Mini Games & Utilities
+- API Integration
+- Automation (Email)
 
 ---
 
 ## 📌 Projects Included
 
-Project | Description
---------|------------
-Blackjack | Card game simulation  
-Hangman | Word guessing game  
-Rock Paper Scissor | Simple random game  
-Password Generator | Generates strong passwords  
-Encrypt / Decrypt | Basic text encryption  
-Turtle Race | GUI race using turtle  
-Guess The State | US states guessing game using turtle + pandas  
-Pomodoro Timer | Productivity timer using Tkinter GUI  
-Miles-KM Converter | Unit converter using Tkinter  
+| Project | Description |
+|--------|-------------|
+| Automated-Birthday-Email | Automates sending birthday emails using CSV + SMTP |
+| Blackjack | Card game simulation |
+| Hangman | Word guessing game |
+| Rock Paper Scissor | Simple random game |
+| Password Generator | Generates strong passwords |
+| Encrypt / Decrypt | Basic text encryption |
+| Turtle Race | GUI race using Turtle |
+| Guess The State | US states guessing game using Turtle + Pandas |
+| Pomodoro Timer | Productivity timer using Tkinter GUI |
+| Miles-KM Converter | Unit converter using Tkinter |
+| Trivia API | Quiz game fetching questions from an API |
 
 ---
 
