@@ -23,7 +23,7 @@ for i in range(len(colors)):
 
 if user_bet:
     game_on=True
-
+#main loop
 while game_on :
 
     for i in turtles:

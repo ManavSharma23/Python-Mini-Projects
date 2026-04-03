@@ -1,12 +1,13 @@
+#importing modules
 import turtle
 import pandas as pd
 
 data=pd.read_csv("50_states.csv")
-
+# naming variables
 all_states=data.state.tolist()
 guessed_states=[]
 
-
+#using turtle
 screen = turtle.Screen()
 screen.title("Guess the States")
 image="blank_states_img.gif"
