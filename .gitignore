@@ -1,40 +1,94 @@
-# Virtual environments
+# =========================
+# Virtual Environments
+# =========================
 venv/
 .venv/
 env/
 ENV/
+venv.bak/
+.env.bak/
 
-# Python cache
+# =========================
+# Python Cache / Bytecode
+# =========================
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 *.py[cod]
 
-# macOS
-.DS_Store
-
-# Distribution / packaging
+# =========================
+# Distribution / Packaging
+# =========================
 build/
 dist/
 *.egg-info/
 .eggs/
+*.whl
 
+# =========================
 # Logs
+# =========================
 *.log
 
-# Unit test / coverage
+# =========================
+# Unit Test / Coverage
+# =========================
 .coverage
 .coverage.*
-.pytest_cache/
 htmlcov/
+.pytest_cache/
+coverage.xml
+*.cover
 
+# =========================
 # Jupyter Notebook
-.ipynb_checkpoints
+# =========================
+.ipynb_checkpoints/
 
-# IDEs
+# =========================
+# IDEs / Editors
+# =========================
 .vscode/
 .idea/
 
-# Environment variables
+# =========================
+# Environment Variables / Secrets
+# =========================
 .env
+.env.*
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# =========================
+# Python Tooling
+# =========================
+.mypy_cache/
+.ruff_cache/
+.pyright/
+
+# =========================
+# Databases
+# =========================
+*.sqlite3
+db.sqlite3
+
+# =========================
+# Binary / Compiled Files
+# =========================
+*.so
+*.dylib
+*.dll
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.swp
+*.bak
