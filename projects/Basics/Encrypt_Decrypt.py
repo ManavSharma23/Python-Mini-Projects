@@ -54,7 +54,3 @@ def decrypt(original_text,shift_number):
 
 
 option()
-
-
-
-
