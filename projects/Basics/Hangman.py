@@ -124,7 +124,6 @@ while not game_over:
     else:
         pass
 
-
     print(guessing_word)
     print(HANGMANPICS[lives])
 
