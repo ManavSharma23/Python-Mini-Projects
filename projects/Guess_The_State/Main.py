@@ -7,7 +7,6 @@ data=pd.read_csv("50_states.csv")
 all_states=data.state.tolist()
 guessed_states=[]
 
-#using turtle
 screen = turtle.Screen()
 screen.title("Guess the States")
 image="blank_states_img.gif"
@@ -26,6 +25,5 @@ while len(guessed_states)<50:
         state_data=data[data["state"]==answer_state]
         t.goto(state_data["x"].item(),state_data["y"].item())
         t.write(answer_state)
-
 
 screen.exitonclick()
