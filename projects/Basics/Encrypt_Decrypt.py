@@ -3,14 +3,14 @@ letters=['a','b','c','d','e','f','g','h','i','j'
          ,'u','v','w','x','y','z',]
 
 def option():
-    directon = int(input("What Do You Want To Do  \n"
+    direction = int(input("What Do You Want To Do  \n"
                      "1.Encode\n"
                      "2.Decode : "))
     text = input("Enter The Text : ")
     shift = int(input("Enter The Shift Number : "))
-    if directon==1:
+    if direction==1:
         encrypt(original_text=text,shift_number=shift)
-    elif directon==2:
+    elif direction==2:
         decrypt(original_text=text,shift_number=shift)
     else:
         print("Wrong Input")
