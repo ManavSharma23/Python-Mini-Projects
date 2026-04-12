@@ -67,5 +67,5 @@ Python_Course/
 - Add more GUI projects  
 - Improve UI design  
 - Add documentation for most project  
-- Make More API projects
+- Make More API integrated with GUI projects
 ---
