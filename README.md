@@ -24,7 +24,7 @@ Python_Course/
 - Loops & Functions
 - Random Module
 - Game Logic
-- String Manipulation
+- String Manipulations
 - File Handling (CSV, JSON)
 - Pandas Basics
 - GUI using Turtle
