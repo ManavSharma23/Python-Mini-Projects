@@ -7,7 +7,6 @@ env/
 ENV/
 venv.bak/
 .env.bak/
-
 # =========================
 # Python Cache / Bytecode
 # =========================
@@ -16,7 +15,6 @@ __pycache__/
 *.pyo
 *.pyd
 *.py[cod]
-
 # =========================
 # Distribution / Packaging
 # =========================
@@ -25,12 +23,10 @@ dist/
 *.egg-info/
 .eggs/
 *.whl
-
 # =========================
 # Logs
 # =========================
 *.log
-
 # =========================
 # Unit Test / Coverage
 # =========================
@@ -40,24 +36,20 @@ htmlcov/
 .pytest_cache/
 coverage.xml
 *.cover
-
 # =========================
 # Jupyter Notebook
 # =========================
 .ipynb_checkpoints/
-
 # =========================
 # IDEs / Editors
 # =========================
 .vscode/
 .idea/
-
 # =========================
 # Environment Variables / Secrets
 # =========================
 .env
 .env.*
-
 # =========================
 # OS Files
 # =========================
@@ -65,27 +57,23 @@ coverage.xml
 Thumbs.db
 desktop.ini
 *~
-
 # =========================
 # Python Tooling
 # =========================
 .mypy_cache/
 .ruff_cache/
 .pyright/
-
 # =========================
 # Databases
 # =========================
 *.sqlite3
 db.sqlite3
-
 # =========================
 # Binary / Compiled Files
 # =========================
 *.so
 *.dylib
 *.dll
-
 # =========================
 # Temporary Files
 # =========================
