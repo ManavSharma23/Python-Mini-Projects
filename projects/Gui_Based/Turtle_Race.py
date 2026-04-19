@@ -1,3 +1,5 @@
+#importing modules
+
 import random
 from turtle import Turtle,Screen
 
@@ -11,6 +13,7 @@ user_bet=screen.textinput(title="Make Your Bet",prompt="Make Your Bet On Who Is 
 current_x=-200
 current_y=-130
 
+#for turtle moving
 
 for i in range(len(colors)):
     new_turtle=Turtle()
@@ -23,7 +26,9 @@ for i in range(len(colors)):
 
 if user_bet:
     game_on=True
-#main loop
+    
+#main loop for checking who has won or wether the race has ended or not 
+
 while game_on :
 
     for i in turtles:
