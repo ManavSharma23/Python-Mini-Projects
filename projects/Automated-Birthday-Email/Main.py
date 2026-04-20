@@ -3,9 +3,10 @@ import pandas
 import random
 import smtplib
 
+# email id , pass
 MY_EMAIL = "YOUR EMAIL"
 MY_PASSWORD = "YOUR PASSWORD"
-
+# checking todays day
 today = datetime.now()
 today_tuple = (today.month, today.day)
 
