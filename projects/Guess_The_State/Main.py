@@ -6,6 +6,7 @@ data=pd.read_csv("50_states.csv")
 # naming variables
 all_states=data.state.tolist()
 guessed_states=[]
+# adding turtle screen
 
 screen = turtle.Screen()
 screen.title("Guess the States")
@@ -16,7 +17,7 @@ turtle.shape(image)
 while len(guessed_states)<50:
 
     answer_state=screen.textinput(title=f"{len(guessed_states)}/50 Correctly Guessed",prompt="State Name ").title()
-
+#main checking loop
     if answer_state in all_states and answer_state not in guessed_states:
         guessed_states.append(answer_state)
         t=turtle.Turtle()
