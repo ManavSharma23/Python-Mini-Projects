@@ -1,6 +1,6 @@
 # Python Mini Projects
 
-A collection of small Python projects built while learning programming, problem solving, and GUI development.
+Collection of Small Python projects built while learning programming, problem solving, and GUI development.
 
 ---
 
@@ -58,7 +58,8 @@ Python_Course/
 - Practice Python concepts  
 - Build logic & problem-solving skills  
 - Learn GUI development  
-- Create small usable apps  
+- Create small usable apps
+- Utilise DSA Concepts
 
 ---
 
