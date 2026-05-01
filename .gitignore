@@ -1,5 +1,5 @@
 # =========================
-# Virtual Environments
+# Virtual Environments 
 # =========================
 venv/
 .venv/
@@ -28,7 +28,7 @@ dist/
 # =========================
 *.log
 # =========================
-# Unit Test / Coverage
+# Unit Tests / Coverage
 # =========================
 .coverage
 .coverage.*
@@ -64,7 +64,7 @@ desktop.ini
 .ruff_cache/
 .pyright/
 # =========================
-# Databases
+# Database
 # =========================
 *.sqlite3
 db.sqlite3
