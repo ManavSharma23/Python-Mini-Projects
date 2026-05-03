@@ -6,9 +6,6 @@ data=pd.read_csv("50_states.csv")
 # naming variables
 all_states=data.state.tolist()
 guessed_states=[]
-# adding turtle screen
-
-
 # main turtle screen
 screen = turtle.Screen()
 screen.title("Guess the States")
