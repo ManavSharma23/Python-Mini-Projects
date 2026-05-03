@@ -8,6 +8,8 @@ all_states=data.state.tolist()
 guessed_states=[]
 # adding turtle screen
 
+
+# main turtle screen
 screen = turtle.Screen()
 screen.title("Guess the States")
 image="blank_states_img.gif"
