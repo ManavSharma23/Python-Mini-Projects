@@ -5,7 +5,7 @@ api_endpoint="https://api.openweathermap.org/data/2.5/forecast"
 
 weather_param={
     "lat":28.704060,
-    "lon":77.102493,     #delhi
+    "lon":77.102493,             #delhi
     "appid":api_key,
     "cnt":4,
 }
