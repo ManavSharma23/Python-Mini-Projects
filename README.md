@@ -9,6 +9,7 @@ Collection of Small Python projects built while learning programming, problem so
 Python_Course/
 ├── Practice/
 └── projects/
+    ├── API
     ├── Automated-Birthday-Email/
     ├── Basics/
     ├── Guess_The_State/
