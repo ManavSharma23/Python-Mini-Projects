@@ -15,7 +15,6 @@ Python_Course/
     ├── Guess_The_State/
     ├── Gui_Based/
     ├── Tkinter/
-    └── Trivia-Api/
 ├── .gitignore
 └── README.md
 ```
