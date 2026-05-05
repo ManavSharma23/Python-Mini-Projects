@@ -37,20 +37,20 @@ Python_Course/
 
 ## 📌 Projects Included
 
-| Project | Description |
-|--------|-------------|
-| Automated-Birthday-Email | Automates sending birthday emails using CSV + SMTP |
-| Blackjack | Card game simulation |
-| Hangman | Word guessing game |
-| Rock Paper Scissor | Simple random game |
-| Password Generator | Generates strong passwords |
-| Encrypt / Decrypt | Basic text encryption |
-| Turtle Race | GUI race using Turtle |
-| Guess The State | US states guessing game using Turtle + Pandas |
-| Pomodoro Timer | Productivity timer using Tkinter GUI |
-| Miles-KM Converter | Unit converter using Tkinter |
-| Trivia API | Quiz game fetching questions from an API |
-
+| Project                     | Description |
+|----------------------------|------------|
+| Automated-Birthday-Email   | Automates sending birthday emails using CSV + SMTP |
+| Blackjack                  | Card game simulation |
+| Hangman                    | Word guessing game |
+| Rock Paper Scissor         | Simple random game |
+| Password Generator         | Generates strong passwords |
+| Encrypt / Decrypt          | Basic text encryption |
+| Turtle Race                | GUI race using Turtle |
+| Guess The State            | US states guessing game using Turtle + Pandas |
+| Pomodoro Timer             | Productivity timer using Tkinter GUI |
+| Miles-KM Converter         | Unit converter using Tkinter |
+| Weather API                | Fetches weather forecast data and suggests actions (e.g., bring umbrella) using OpenWeather API |
+| Stock API                  | Retrieves stock market data using Alpha Vantage API |
 ---
 
 ## 🎯 Purpose
