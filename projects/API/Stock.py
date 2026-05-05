@@ -25,3 +25,8 @@ day_before_yesterday=data[1]
 day_before_yesterday_data=day_before_yesterday["4. close"]
 print(yesterday_data)
 print(day_before_yesterday_data)
+
+difference = abs(float(yesterday_data) - float(day_before_yesterday_data))
+print("difference : ",difference)
+percentage = difference/float(yesterday_data) * 100
+print("percentage : ",percentage)
