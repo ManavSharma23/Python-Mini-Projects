@@ -66,7 +66,7 @@ Python_Course/
 ## 🔮 Future Improvements
 
 - Add more GUI projects  
-- Improve UI design  
+- Improve UI/UX design  
 - Add documentation for most project  
 - Make More API integrated with GUI projects
 ---
