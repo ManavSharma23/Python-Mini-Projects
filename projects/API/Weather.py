@@ -3,6 +3,7 @@ import requests
 api_key="105340f9fdcada19de3d0b7ee93c3c1c"
 api_endpoint="https://api.openweathermap.org/data/2.5/forecast"
 
+# main parameter
 weather_param={
     "lat":28.704060,
     "lon":77.102493,             #delhi
@@ -10,6 +11,7 @@ weather_param={
     "cnt":4,
 }
 
+# query
 result=requests.get(api_endpoint,params=weather_param)
 data=result.json()
 for weather_data in data["list"]:
