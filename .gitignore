@@ -1,5 +1,5 @@
 # =========================
-# Virtual Environments 
+# Virtual Environments Required
 # =========================
 venv/
 .venv/
