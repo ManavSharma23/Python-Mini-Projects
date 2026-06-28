@@ -18,6 +18,7 @@ def option():
     choice=int(input("Do You want to do it again ? \n"
                      "1.Yes\n"
                      "2.No : "))
+         
     if choice==1:
         print("Starting Again")
         option()
@@ -26,8 +27,10 @@ def option():
     else:
         print("Wrong Input Given")
         print("Exiting Code")
+             
 
 def encrypt(original_text,shift_number):
+         
     cipher_text=""
     for i in original_text:
         if i in letters:
@@ -41,6 +44,7 @@ def encrypt(original_text,shift_number):
 
 
 def decrypt(original_text,shift_number):
+         
     cipher_text=""
     # hello
     for i in original_text:
