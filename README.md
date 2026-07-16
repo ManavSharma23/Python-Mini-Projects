@@ -1,6 +1,6 @@
 # Python Mini Projects
 
-Collection of Small Python Projects built while learning programming, problem solving,DSA , API and GUI development.
+Collections of Small Python Projects built while learning programming, problem solving,DSA , API and GUI development.
 
 ---
 
